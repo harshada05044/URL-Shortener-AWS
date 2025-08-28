@@ -46,6 +46,7 @@ Replace JSON file in S3 with DynamoDB for faster, scalable storage.
 Add support for custom short URLs instead of automatically generated ones.
 
 How to Run Locally:
+
 Clone the repository: git clone https://github.com/harshada05044/URL-Shortener-AWS.git
 Open frontend/index.html in a browser to test the frontend.
 Deploy backend on AWS Lambda and configure API Gateway routes as described above.
